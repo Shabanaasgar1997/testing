@@ -1,5 +1,6 @@
 import Navbar from "./Navbar";
 import Virat from "./Components/Banner";
+import Banner2 from "./Components/Banner2";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         rerum necessitatibus laudantium odit tenetur veritatis. Nulla molestiae
         dolores aliquam facilis non nesciunt nobis.
       </p>
+      <Banner2 />
     </>
   );
 }
